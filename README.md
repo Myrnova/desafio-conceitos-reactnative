@@ -9,4 +9,4 @@
 
 ## ❔ Sobre
 
-Desafios proposta sobre a aula de conceitos reactnative
+Desafios propostos sobre a aula de conceitos ReactNative
